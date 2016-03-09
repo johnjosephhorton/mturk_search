@@ -1,0 +1,10 @@
+writeup/plots/*pdf
+data/
+*pdf
+*blg
+*log
+*bbl
+*dvi
+*aux
+*out
+etl/data.tar.gz
